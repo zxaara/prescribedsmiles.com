@@ -1,7 +1,6 @@
 
 var cardContainer = $('.card-container');
 var submit = $('.submit-btn');
-var image= $(`.confetti`)
 
 submit.on("click", appendSomeoneJoins);
 
