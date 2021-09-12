@@ -1,0 +1,21 @@
+h1{
+  color: lightcoral;
+}
+p {
+  color: lightseagreen;
+}
+.button {
+  color: darkblue;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+body {
+  background-color: antiquewhite;
+}
+footer {
+  margin-top: 20px;
+  color: darkblue;
+}
