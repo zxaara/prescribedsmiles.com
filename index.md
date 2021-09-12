@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zxaara/prescribedsmiles.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zxaara/prescribedsmiles.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+  <h1> <center> Prescribed Smiles </center> </h1>
+  <p> <em> Welcome to prescribed smiles! The only 'prescription' that can truly lives up to the saying "laughter is the best medicine." </em> </p>
+  <h2> Why? </h2>
+  <p> The main reason we decided to create this monitor was because elderly patients all over the world are laying on hospital beds right now. 
+  Staying in two positions for a long period of time is obviously going to lead to some problems. Loneliness. Depression. Anxiety. 
+  Mental illnesses are common to occur when one is alone. We want to prevent this and help work against it. </p>
+    <h2> What? </h2>
+    <p> We created a monitor similar to the look of a baby monitor. The only job YOU have to do is place three double A batteries inside. 
+      Once it's all fired up, we'll take care of the rest. Our workers have programmed over 500+ jokes inside of that tiny little monitor for only $19.99! 
+      It has an on/off button on the back of it and a single button on the front. That single button is your key to letting smiles be shown and laughter be head.
+      Every time that button is pressed, a joke is let out! </p>
+  <h2> Market Validation? </h2>
+  <p> If this goes out into the market, I can assure you that audiences who will be more likely to buy it than others are senior citizens. The main reason is because
+    the jokes revolve around the 80s as it is specifically targeted for the older audience. Everyone needs a laugh once in a while and so this baby monitor look-a-like can give it! </p>
+  
+      <a href = "https://www.reliasmedia.com/articles/143295-for-older-patients-loneliness-might-be-biggest-social-determinant-of-health"> <button> <center> Click Here To Learn More! </center> </button>
+      
+        <center>
+ <body class="content">
+      <form class="user-input">
+        <input class="email" type="text" placeholder="Enter your e-mail!">
+        <input class="submit-btn" type="submit" value="Subscribe to our newsletter!">
+      </form>
+      <section class="card-container">
+     </center>
+     
+      </section>
+  </body>
+</html>
+  
+  <img 
+       <center>
+   class="old"
+   src="https://images.pexels.com/photos/7551681/pexels-photo-7551681.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+   alt="old"
+  </center> >
+  
+         <footer> <left> Created by Zaara! </left> </footer>
